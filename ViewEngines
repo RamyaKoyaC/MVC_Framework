@@ -1,0 +1,10 @@
+There are two built-in view engines in MVC: 
+
+# Razor Engine --> Compact syntax, advanced, TDD, secure
+# ASPX Engine (Active Server Page eXtendable) - quite old 
+
+Also views can be written in two ways, 
+
+1. Strongly Typed --> Better, prior knowledge that data is being passed
+2. Dynamically Typed Views --> Sometimes may lead to runtime errors 
+
