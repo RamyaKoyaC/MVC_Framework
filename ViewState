@@ -1,0 +1,9 @@
+In MVC, we don not have View State. A view state is that it stores the value of the control after post-back. It is easy to implement but has secruity issues. 
+
+# Must be used only when there is less amount of data
+
+# Use for data that doesn't need any security
+
+# Can anytime enable or disable the feature
+
+# Encryption of the data can also be done right away 
